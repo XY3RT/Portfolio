@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: normal;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background: black;
+    color: rgb(24, 121, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li a {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: brown;
+}
+
+section {
+    padding: 20px;
+    margin: 15px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+  
+footer {
+    text-align: center;
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    color: rgb(231, 177, 0);
+}
